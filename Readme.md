@@ -60,7 +60,7 @@ Feel free to contribute to the development of this app by submitting issues or p
 
 ## User interface of the application
 
-![1](https://github.com/mukund0502/yt-video-downloader/tree/main/images/1.png?raw=true)
-![2](https://github.com/mukund0502/yt-video-downloader/tree/main/images/2.png?raw=true)
-![3](https://github.com/mukund0502/yt-video-downloader/tree/main/images/3.png?raw=true)
-![4](https://github.com/mukund0502/yt-video-downloader/tree/main/images/4.png?raw=true)
+![1](https://github.com/mukund0502/yt-video-downloader/assets/84224791/10e17b8e-e1bd-4d30-8008-cd61d23d6858)
+![2](https://github.com/mukund0502/yt-video-downloader/assets/84224791/dd3d54a0-81d1-4716-b479-ca58ceca0d48)
+![3](https://github.com/mukund0502/yt-video-downloader/assets/84224791/483870f9-7520-4964-bb66-08e524dc9406)
+![4](https://github.com/mukund0502/yt-video-downloader/assets/84224791/a1727a53-09a1-40a4-b10d-6fa7838932bc)
