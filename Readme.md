@@ -60,7 +60,7 @@ Feel free to contribute to the development of this app by submitting issues or p
 
 ## User interface of the application
 
-![1](images/1.png)
-![2](images/2.png)
-![3](images/3.png)
-![4](images/4.png)
+![1](https://github.com/mukund0502/yt-video-downloader/tree/main/images/1.png?raw=true)
+![2](https://github.com/mukund0502/yt-video-downloader/tree/main/images/2.png?raw=true)
+![3](https://github.com/mukund0502/yt-video-downloader/tree/main/images/3.png?raw=true)
+![4](https://github.com/mukund0502/yt-video-downloader/tree/main/images/4.png?raw=true)
