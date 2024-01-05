@@ -40,7 +40,7 @@ This Python application allows users to download YouTube videos by providing a l
 1. Run the app:
 
     ```bash
-    python yt-video-downloader-gui.py
+    python main.py
     ```
 
 2. Enter a valid YouTube video link in the provided input field then hit check button.
